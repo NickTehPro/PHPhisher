@@ -1,22 +1,22 @@
+<!DOCTYPE html> 
+<html>
+    <head>
+        <link rel="stylesheet" href="../css/bootstrap.css"> 
+        <script src="../js/bootstrap.min.js"></script> 
+    </head> 
+    <body> 
+        <div class="page-header"> 
+	    <h1> PHPhisher Admin Panel </h1> 
+        </div> 
+   </body> 
+</html> 
+
 <?php
 $json = json_decode(file_get_contents('../config.json'), true);
 $username = $json['dbuser'];
 $servername = $json['dbip'];
 $password = $json['dbpass'];
 $dbname = $json['dbname'];
-
-echo '<!DOCTYPE html>'; 
-echo '<html>';
-echo '<head>';
-echo '<link rel="stylesheet" href="../css/bootstrap.css">'; 
-echo '<script src="../js/bootstrap.min.js"></script>'; 
-echo '</head>'; 
-echo '<body>'; 
-echo '<div class="page-header">'; 
-echo '<h1>PHPhisher Admin Panel </h1>'; 
-echo '</div>'; 
-echo '</body>'; 
-echo '</html>'; 
 // Create connection
 $conn = mysqli_connect($servername, $username, $password, $dbname);
 // Check connection
@@ -35,4 +35,3 @@ if (mysqli_num_rows($result) > 0) {
 }
 
 mysqli_close($conn);
-?>
