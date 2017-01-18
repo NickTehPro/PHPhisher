@@ -64,6 +64,8 @@ Example: http://<yourip>/admin/
 The PHP pages and the project as a whole are mainly based on this project:
 <a href="https://github.com/sophron/wifiphisher">WifiPhisher</a>. 
 
+DavidBouman contributed to the project! Give him love here <a href="https://github.com/davidbouman">here</a>.
+
 Zarkopafilis made the logo and helped with testing. Give him love <a href="https://github.com/Zarkopafilis">here</a>. 
 
 Buy me a coffee: 1JA3JRDv5WHG7f2vGiBEetVBJkwbK4Qp8
