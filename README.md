@@ -47,9 +47,7 @@ After installing everything, edit the configuration file:
 	"dbuse": "1" // 1 = DB 2= Email Still buggy af.
 }
 ```
-Point your browser to dbsetup.php in order to create the tables.
-
-Run the installation Wizard.
+Open a web browser and navigate to http://<yourip>/. The PHPhisher will automatically guide you through the setup proccess.
 
 After the attack completes point your browser at the admin panel to get the stolen credentials: 
 Example: http://<yourip>/admin/

@@ -1,5 +1,5 @@
 <?php
-$json = json_decode(file_get_contents("config.json"), true);
+$json = json_decode(file_get_contents("../config.json"), true);
 $dbuser = $json['dbuser'];
 $servername = $json['dbip'];
 $dbpass = $json['dbpass'];
