@@ -52,10 +52,10 @@ Open a web browser and navigate to http://<yourip>/. The PHPhisher will automati
 After the attack completes point your browser at the admin panel to get the stolen credentials: 
 Example: http://<yourip>/admin/
 
-# Screenshot 
+## Screenshot 
 <p align="center"><img src="https://raw.githubusercontent.com/NickTehPro/PHPhisher/master/demo.jpg"/></p>
 
-# Requirements
+## Requirements
 * Linux Server with MySQL and Apache(or Nginx). 
 * Your imagination.
 
@@ -81,7 +81,7 @@ See pages/LICENSE.md for licensing information regarding the pages.
 * Usage of PHPhisher for attacking infrastructures without prior mutual consistency can be considered as an illegal activity. 
 It is the final user's responsibility to obey all applicable local, state and federal laws. 
 The author assume no liability and are not responsible for any misuse or damage caused by this program.
-*All pages included in this Software are licensed under their own license so keep that in mind if you edit or re-distrubute them.
+* All pages included in this Software are licensed under their own license so keep that in mind if you edit or re-distrubute them.
 
 ## Project Status 
 PHPhisher current version: 3.2
