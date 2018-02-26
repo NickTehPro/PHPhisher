@@ -63,7 +63,7 @@ Example: http://<yourip>/admin/
 The pages and the project as a whole are mainly based on this project:
 <a href="https://github.com/wifiphisher/wifiphisher">WifiPhisher</a>. 
 More paged added from:
-<a href="https://github.com/wifiphisher/extra-phishing-pages/"
+<a href="https://github.com/wifiphisher/extra-phishing-pages/">Extra Phising Pages </a>
 
 DavidBouman contributed to the project! Give him love here <a href="https://github.com/davidbouman">here</a>.
 
