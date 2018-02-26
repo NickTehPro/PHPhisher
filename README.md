@@ -53,9 +53,9 @@ After the attack completes point your browser at the admin panel to get the stol
 Example: http://<yourip>/admin/
 
 # Screenshot 
-<p align="center"><img src="https://raw.githubusercontent.com/NickTehPro/PHPhisher/demo.jpg"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/NickTehPro/PHPhisher/master/demo.jpg"/></p>
 
-## Requirements
+# Requirements
 * Linux Server with MySQL and Apache(or Nginx). 
 * Your imagination.
 
