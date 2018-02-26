@@ -59,8 +59,10 @@ Example: http://<yourip>/admin/
 * Your imagination.
 
 ## Credits
-The PHP pages and the project as a whole are mainly based on this project:
-<a href="https://github.com/sophron/wifiphisher">WifiPhisher</a>. 
+The pages and the project as a whole are mainly based on this project:
+<a href="https://github.com/wifiphisher/wifiphisher">WifiPhisher</a>. 
+More paged added from:
+<a href="https://github.com/wifiphisher/extra-phishing-pages/"
 
 DavidBouman contributed to the project! Give him love here <a href="https://github.com/davidbouman">here</a>.
 
@@ -76,6 +78,7 @@ PHPhisher is licensed under the MIT License. See the LICENSE.md for more informa
 * Usage of PHPhisher for attacking infrastructures without prior mutual consistency can be considered as an illegal activity. 
 It is the final user's responsibility to obey all applicable local, state and federal laws. 
 The author assume no liability and are not responsible for any misuse or damage caused by this program.
+*All pages included in this Software are licensed under their own license so keep that in mind if you edit or re-distrubute them.
 
 ## Project Status 
-PHPhisher current version: 3.0
+PHPhisher current version: 3.2

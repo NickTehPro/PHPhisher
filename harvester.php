@@ -16,8 +16,7 @@ header("Location: $redirect");
     VALUES ('$email', '$password')";
     // use exec() because no results are returned
     $conn->exec($sql);
-    echo "New record created successfully";
-	
+  
     }
 	catch(PDOException $e)
     {

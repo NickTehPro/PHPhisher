@@ -22,6 +22,7 @@ reg_date TIMESTAMP
 
 if (mysqli_query($conn, $sql)) {
     echo "Table credentials created successfully";
+	header("Location: index3.html"); 
 } else {
     echo "Error creating table: " . mysqli_error($conn);
 }
