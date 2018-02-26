@@ -53,7 +53,8 @@ After the attack completes point your browser at the admin panel to get the stol
 Example: http://<yourip>/admin/
 
 # Screenshot 
-<p align="center"><img src="https://raw.githubusercontent.com/NickTehPro/PHPhisher/Dev/Demo.png" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/NickTehPro/PHPhisher/demo.jpg"/></p>
+
 ## Requirements
 * Linux Server with MySQL and Apache(or Nginx). 
 * Your imagination.
@@ -73,6 +74,8 @@ Buy me a coffee: 1JA3JRDv5WHG7f2vGiBEetVBJkwbK4Qp8
 ## License
 
 PHPhisher is licensed under the MIT License. See the LICENSE.md for more information.
+
+See pages/LICENSE.md for licensing information regarding the pages.
 
 ## Disclaimer
 * Usage of PHPhisher for attacking infrastructures without prior mutual consistency can be considered as an illegal activity. 
