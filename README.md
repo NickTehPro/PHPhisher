@@ -47,7 +47,7 @@ After installing everything, edit the configuration file:
 	"dbuse": "1" // 1 = DB 2= Email Still buggy af.
 }
 ```
-Open a web browser and navigate to http://<yourip>/. The PHPhisher will automatically guide you through the setup proccess.
+Open a web browser and navigate to http://yourip/. The PHPhisher will automatically guide you through the setup proccess.
 
 After the attack completes point your browser at the admin panel to get the stolen credentials: 
 Example: http://<yourip>/admin/
@@ -61,9 +61,10 @@ Example: http://<yourip>/admin/
 
 ## Credits
 The pages and the project as a whole are mainly based on this project:
-<a href="https://github.com/wifiphisher/wifiphisher">WifiPhisher</a>. 
+<a href="https://github.com/wifiphisher/wifiphisher">WifiPhisher</a>.
+ 
 More paged added from:
-<a href="https://github.com/wifiphisher/extra-phishing-pages/">Extra Phising Pages </a>
+<a href="https://github.com/wifiphisher/extra-phishing-pages/">Extra Phising Pages </a>.
 
 DavidBouman contributed to the project! Give him love here <a href="https://github.com/davidbouman">here</a>.
 
